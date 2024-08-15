@@ -1,6 +1,9 @@
+
 # ChatGPT iOS 应用：注册美区 Apple ID 和购买 Plus 会员图文教程
 
 对于想在iOS设备上使用ChatGPT Plus的用户，注册一个美区Apple ID是一个关键步骤。本教程将详细指导您如何在iOS设备上注册美区Apple ID，并购买ChatGPT Plus会员。
+
+如果您在支付时遇到困难，可以考虑使用虚拟信用卡。推荐使用 [DuPay 虚拟信用卡](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)，它支持包括微信支付和支付宝在内的多种支付方式，非常适合海外订阅和购物。
 
 ![image](https://github.com/gcreddevil1/uki/assets/169868893/3e49da9b-9790-4119-a9b2-88b29327da87)
 
@@ -40,8 +43,9 @@
 
 - 选择适合的订阅计划，并使用绑定到您的美区Apple ID的支付方式完成购买。
 
+
 ## 使用虚拟信用卡支付
 
-如果您在支付时遇到困难，可以考虑使用虚拟信用卡。推荐使用 [FOMEPay](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)，它支持包括微信支付和支付宝在内的多种支付方式，非常适合海外订阅和购物。
+如果您在支付时遇到困难，可以考虑使用虚拟信用卡。推荐使用 [DuPay 虚拟信用卡](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)，它支持包括微信支付和支付宝在内的多种支付方式，非常适合海外订阅和购物。
 
 通过以上步骤，您不仅可以成功注册美区Apple ID，还能在iOS设备上轻松购买和享受ChatGPT Plus会员服务。这一过程不仅简单，而且能让您在全球范围内更灵活地使用数字服务。
